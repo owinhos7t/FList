@@ -2,8 +2,8 @@
   "analysis": {
     "type": "githubReleasesFilesAnalysis",
     "options": {
-      "user": "jianjianai",
-      "repository": "FList",
+      "user": "owinhos7t",
+      "repository": "bbsummerserver.github.io",
       "authorizationToken": {"$env": "GITHUB_TOKEN"}
     }
   },
