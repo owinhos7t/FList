@@ -4,7 +4,7 @@
     "options": {
       "user": "owinhos7t",
       "repository": "bbsummerserver.github.io",
-      "authorizationToken": {"$env": "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"}
+      "authorizationToken": {"$env": "GITHUB_TOKEN"}
     }
   },
   "downProxy": { "type": "cloudflarePagesDownProxy" }
